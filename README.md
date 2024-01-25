@@ -11,7 +11,7 @@ Welcome to the Interview Platform Node.js backend! Follow the instructions below
 ## Installation
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/interview-platform-backend.git
+    git clone https://github.com/Munnaf-Redapple/interview-platform-backend.git
     cd interview-platform-backend
     ```
 
