@@ -1,0 +1,44 @@
+{
+    "dev": {
+        "username": "enter_db_username",
+        "password": "enter_db_password",
+        "database": "interview_platform_dev",
+        "host": "localhost",
+        "port": "8081",
+        "dialect": "mongo",
+        "dialectOptions": {
+            "charset": "utf8mb4_unicode_ci"
+        },
+        "datetime": "yyyy-MM-dd HH:mm:ss",
+        "redis_url":"redis://localhost:6379",
+        "mq_url":"amqp://localhost:5672"
+    },
+    "stg": {
+        "username": "enter_db_username",
+        "password": "enter_db_password",
+        "database": "interview_platform_dev",
+        "host": "localhost",
+        "port": "8081",
+        "dialect": "mongo",
+        "dialectOptions": {
+            "charset": "utf8mb4_unicode_ci"
+        },
+        "datetime": "yyyy-MM-dd HH:mm:ss",
+        "redis_url":"redis://localhost:6379",
+        "mq_url":"amqp://localhost:5672"
+    },
+    "prd":{
+        "username": "enter_db_username",
+        "password": "enter_db_password",
+        "database": "interview_platform_dev",
+        "host": "localhost",
+        "port": "8081",
+        "dialect": "mongo",
+        "dialectOptions": {
+            "charset": "utf8mb4_unicode_ci"
+        },
+        "datetime": "yyyy-MM-dd HH:mm:ss",
+        "redis_url":"redis://localhost:6379",
+        "mq_url":"amqp://localhost:5672"
+    }
+}
